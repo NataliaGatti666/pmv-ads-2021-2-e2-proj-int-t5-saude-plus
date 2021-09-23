@@ -1,41 +1,38 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O presente trabalho refere-se ao desenvolvimento de uma plataforma online, que possibilita uma comunicação direta entre médico e paciente.
+Com a crescente demanda da busca pela informação através da internet a veiculação de informações instantaneas se tornou parte do cotidiano de vários usuários do atual mundo globalizado.
+
+Apresentamos a necessidade de desenvolver um site que reuna informações veridicas sobre saúde com uma interface intuitiva, colocando a disposição um conjunto de funcionalidades que oferecem segurança e praticidade para as pessoas que necessitam deste serviço. Com apenas alguns cliques, o site apresenta profissionais disponíveis para atender sua demanda. Além de possibilitar o atendimento sem o deslocamento ao consultório.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Com o cenário atual da pândemia, as consultas online estiveram uma enorme crescente, com o uso da tecnologia, se tornou mais viável o encontro do médico e paciente. Além de vários benefícios que vieram associados a telemedicina: redução de custos, agilidade em relatórios e laudos médicos,precisão.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo deste trabalho é a criação de uma plataforma que possibilite para os usuários a facilidade e agilidade de uma consulta online pela própria plataforma.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+**Objetivos Específicos
+* Fornecer funcionalidades que permitam o usuário encontrar facilmente  um profissional específico;
+* Permitir que o usuário se conecte atráves de chat online e chamada de vídeo com o médico;
+* Permitir que o médico utilize a plataforma para atendimento de pacientes.
+* Promover a saúde e o bem estar com baixo custo.
+* Estimular uma consulta médica para todos.
+* Integrar com médicos de todo país.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O projeto do site SaúdePlus se justifica por levar a integração dos prestadores de serviço à quem solicita o profissional de uma forma simples e eficaz. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Este canal de atendimento, tem o intuito de estabelecer a conexão entre pacientes e médicos das mais diversas áreas. Através do SaúdePlus, os usuários podem pesquisar médicos que estão disponíveis para ministrar consultas online e atendimentos rápidos.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Estes dados, podem não justificar por si só o tema para elaboração deste projeto. Pode ser citado também a necessidade de comunicação e atendimento de fácil acesso.
+
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O site destina-se a todas as pessoas que tem interesse em consultar e prestar serviços de atendimento ao paciente de uma forma eficaz e acessivel.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
