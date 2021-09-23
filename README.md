@@ -12,7 +12,7 @@ Para que o cliente possa entrar em contato com especialista, o site havera moeda
 
 ## Integrantes
 
-*Rafael Junior Martins  
+* Rafael Junior Martins  
 * Natalia Stephany Cabral Gatti 
 * Denison Amaral 
 * Richard Otavio Assis De Paula
