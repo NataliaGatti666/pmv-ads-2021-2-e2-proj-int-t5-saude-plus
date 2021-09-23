@@ -13,7 +13,7 @@ Com o cenário atual da pândemia, as consultas online estiveram uma enorme cres
 
 O objetivo deste trabalho é a criação de uma plataforma que possibilite para os usuários a facilidade e agilidade de uma consulta online pela própria plataforma.
 
-** Objetivos Específicos
+### Objetivos Específicos
 * Fornecer funcionalidades que permitam o usuário encontrar facilmente  um profissional específico;
 * Permitir que o usuário se conecte atráves de chat online e chamada de vídeo com o médico;
 * Permitir que o médico utilize a plataforma para atendimento de pacientes.
