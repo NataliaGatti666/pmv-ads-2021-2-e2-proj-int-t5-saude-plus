@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# Saude.Plus
 
-`CURSO`
+`Curso de Tecnologia em Análise e Desenvolvimento de Sistemas - EAD`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`2º 2021`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto que esta sendo desenvolvido é um website utlizando as seguintes ferramentas: HTML, CSS e JS. Este Site tem como objetivo aproximar medico e seus pacientes, de modo que, todo o atendimento possa ser realizado online. Para isso, tanto o usuario quanto o medico, devera realizar o cadastro em nosso site no qual, informando algumas informações pessoais e especificamente o especialista deverá informar a area trabalhada e seu CFM. 
+
+Para que o cliente possa entrar em contato com especialista, o site havera moedas virtuais,que podera ser comprada no proprio site. Tais moedas serao trocadas para a realização do atendimento. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+*Rafael Junior Martins  
+* Natalia Stephany Cabral Gatti 
+* Denison Amaral 
+* Richard Otavio Assis De Paula
 
 ## Orientador
-
-* Nome completo do professor 1
+* Joyce Christina de Paiva Carvalho.
 
 ## Instruções de utilização
 
