@@ -1,9 +1,8 @@
 # Introdução
 
-O presente trabalho refere-se ao desenvolvimento de uma plataforma online, que possibilita uma comunicação direta entre médico e paciente.
-Com a crescente demanda da busca pela informação através da internet a veiculação de informações instantaneas se tornou parte do cotidiano de vários usuários do atual mundo globalizado.
-
-Apresentamos a necessidade de desenvolver um site que reuna informações veridicas sobre saúde com uma interface intuitiva, colocando a disposição um conjunto de funcionalidades que oferecem segurança e praticidade para as pessoas que necessitam deste serviço. Com apenas alguns cliques, o site apresenta profissionais disponíveis para atender sua demanda. Além de possibilitar o atendimento sem o deslocamento ao consultório.
+Com o início da era tecnológica, ficou mais evidente a necessidade de ter em mãos de uma forma rápida e ágil tudo que necessitamos em nosso cotidiano. Visto isso, não podemos deixar de mencionar que temos em mãos o simples poder de estar, ver e consumir o que desejamos apenas com um clique. Uma das características mais marcantes é a memória infinita relacionada a dados e informações.
+Diante disto, as aplicações web são exemplos de toda essa informatização, atualmente já faz parte do nosso cotidiano a realização de tarefas básicas através da rede e se torna cada vez mais cômodo para o usuário. 
+Durante o curso Tecnólogo de Graduação em Análise e Desenvolvimento de Sistemas (ADS) na Pontíficia Universidade Católica de Minas Gerais (PUC MINAS), o presente trabalho se faz necessário para a aprovação final do semestre, visto isso, a escolha do tema se deu pelo fato de uma ideia de inovação tecnológica na área da medicina moderna, sendo o objetivo principal o desenvolvimento de uma plataforma web que possa conectar pacientes e médicos automatizando o processo convencional e trazendo praticidade ao cotidiano moderno. Desta forma, o sistema foi implementado utilizando Front-end e Back-end permitindo uma melhor proposta para a integração do projeto em questão.
 
 
 ## Problema
