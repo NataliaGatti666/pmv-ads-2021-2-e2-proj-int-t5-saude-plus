@@ -22,8 +22,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Eu como usuário do sistema(paciente)| preciso ter acesso a uma vídeo conferencia com meu médico| pois estou com sintomas básicos de infecção de urina pois estou com receio de comparecer presencial |
 |Eu como usuário do sistema(paciente)| preciso ter acesso ao whatsapp do meu médico para sanar dúvidas sobre a medicação| estou com dúvidas sobre a dose exata do remédio|
 |Eu como usuário do sistema(paciente)|preciso conseguir selecionar o sexo do médico que desejo ser atendida |pois me sinto mais confortável sendo atendida por uma nutricionista mulher|
-|Eu como usuário do sistema(paciente)|preciso conseguir ter acesso a receitas médicas online para consultar sempre que possível|
-|Eu como usuário do sistema(paciente)|preciso ter acesso ao meu prontuário online caso desejar consultar com outro especialista e mostrar o relatório do médico anterior|
+|Eu como usuário do sistema(paciente)|preciso conseguir ter acesso a receitas médicas online| para consultar sempre que possível|
+|Eu como usuário do sistema(paciente)|preciso ter acesso ao meu prontuário online | caso desejar consultar com outro especialista e mostrar o relatório do médico anterior|
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
