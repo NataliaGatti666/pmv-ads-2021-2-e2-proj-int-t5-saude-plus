@@ -4,7 +4,10 @@ Diante disto, as aplicações web são exemplos de toda essa informatização, a
 Durante o curso Tecnólogo de Graduação em Análise e Desenvolvimento de Sistemas (ADS) na Pontíficia Universidade Católica de Minas Gerais (PUC MINAS), o presente trabalho se faz necessário para a aprovação final do semestre, visto isso, a escolha do tema se deu pelo fato de uma ideia de inovação tecnológica na área da medicina moderna, sendo o objetivo principal o desenvolvimento de uma plataforma web que possa conectar pacientes e médicos automatizando o processo convencional e trazendo praticidade ao cotidiano moderno. Desta forma, o sistema foi implementado utilizando Front-end e Back-end permitindo uma melhor proposta para a integração do projeto em questão.
 
 ## Problema
-Com o cenário atual da pândemia, as consultas online estiveram uma enorme crescente, com o uso da tecnologia, se tornou mais viável o encontro do médico e paciente. Além de vários benefícios que vieram associados a telemedicina: redução de custos, agilidade em relatórios e laudos médicos,precisão.
+De acordo com o Presidente do Conselho Científico do Global Summit Telemedicine & Digital Heath, Jefferson Fernandes (2021), a telemedicina é um método de evolução da saúde. Após o inicio da pandemia, a telemedicina vem em uma constante crescente e suas ferramentas tecnológicas traz em evidência um novo modelo de negócio durante esse período – uma forma segura para atendimento dos pacientes. Durante esse período, a COVID -19 trouxe uma crise sanitária que se alastrou por todo Brasil levando risco eminente uma simples consulta ao médico.
+Em 2020, devido ao enfrentamento desta crise, foi sancionada em abril de 2020 a Lei nº 13.989/20 para autorizar o uso da telemedicina no país, possibilitando o atendimento médico por meio das tele consultas. Além desta medida também foi adotado o desenvolvimento e aperfeiçoamento do SUS (Sistema Único de Saúde).
+Outrossim, o grupo definiu o uso de websites como o SaudePlus, que possibilita a comunicação e a interação do médico e paciente, possibilitando o uso da telemedicina de uma forma simples e ágil.
+
 
 ## Objetivos
 
