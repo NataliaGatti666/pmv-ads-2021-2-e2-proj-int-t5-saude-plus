@@ -32,9 +32,10 @@ Estes dados, podem não justificar por si só o tema para elaboração deste pro
 
 ## Público-Alvo
 
-O site destina-se a todas as pessoas que tem interesse em consultar e prestar serviços de atendimento ao paciente de uma forma eficaz e acessivel.
+Embora o projeto tenha abrangência geral, o foco está nos profissionais com formação superior em medicina residentes especialista em todas as áreas de conhecimento. Faixa etária: a partir de 28 anos.
+Homens e mulheres entre 19 e 50 anos, com ensino médio completo, com renda mensal entre R$2 mil a R$9 mil reais, que sejam adeptos a utilização da tecnologia de um modo geral.
+Todos os profissionais que tenham graduação na área da saúde e pós graduação dentro da área específica de atuação.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
