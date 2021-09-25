@@ -17,6 +17,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Eu como usuário do sistema(paciente) | preciso ter acesso a uma página de cadastro onde consiga colocar meus dados pessoais e minha solicitação           | Conseguir ser atendida dentro da minha necessidade
 |Administrador (Médico)      | Ter acesso as informações do paciente                | Permitir que possa atender o paciente de uma melhor maneira dentro do solicitado |
+|Administrador (Médico) | preciso ter acesso aos laudos e exames do paciente| Para presteza de um atendimento assertivo|
+|Eu como usuário do sistema(paciente)|  preciso ter acesso a compra de moedas com o pagamento no cartão| Para que consiga acessar a vídeo chamada|
+|Eu como usuário do sistema(paciente)| preciso ter acesso a uma vídeo conferencia com meu médico| pois estou com sintomas básicos de infecção de urina pois estou com receio de comparecer presencial |
+|Eu como usuário do sistema(paciente)| preciso ter acesso ao whatsapp do meu médico para sanar dúvidas sobre a medicação| estou com dúvidas sobre a dose exata do remédio|
+|Eu como usuário do sistema(paciente)|preciso conseguir selecionar o sexo do médico que desejo ser atendida |pois me sinto mais confortável sendo atendida por uma nutricionista mulher|
+|Eu como usuário do sistema(paciente)|preciso conseguir ter acesso a receitas médicas online para consultar sempre que possível|
+|Eu como usuário do sistema(paciente)|preciso ter acesso ao meu prontuário online caso desejar consultar com outro especialista e mostrar o relatório do médico anterior|
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
