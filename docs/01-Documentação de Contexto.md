@@ -45,11 +45,9 @@ Pode ser citado como objetivos específicos:
 
 ## Justificativa
 
-O projeto do site SaúdePlus se justifica por levar a integração dos prestadores de serviço à quem solicita o profissional de uma forma simples e eficaz. 
-
-Este canal de atendimento, tem o intuito de estabelecer a conexão entre pacientes e médicos das mais diversas áreas. Através do SaúdePlus, os usuários podem pesquisar médicos que estão disponíveis para ministrar consultas online e atendimentos rápidos.
-
-Estes dados, podem não justificar por si só o tema para elaboração deste projeto. Pode ser citado também a necessidade de comunicação e atendimento de fácil acesso.
+De acordo com estudos recentes realizados pela Global Market Insights, o mercado mundial de telemedicina irá expandir para aproximadamente US$131 bilhões. A taxa de crescimento anual será de 19% impulsionada pela ampliação da rede de telecomunicações e iniciativas públicas governamentais. Com o desafio global e a necessidade de métodos alternativos para combater a escalada da COVID-19 as teleconsultas conseguiram alcançar um grau de precisão de 80% para pacientes que recorrem a este tratamento.
+Podemos citar como um dos maiores desafios dos centros de saúde que atuam distante dos centros urbanos é oferecer diagnósticos de profissionais especializados, contribuindo de forma expressiva para a má resolução de doenças graves ou até mesmo diagnósticos ineficazes de doenças crônicas. Neste contexto, a utilização da tecnologia pode ajudar na taxa de mortalidade e garantir os avanços neste segmento.
+Contudo, o SaudePlus é uma plataforma profícua que conecta profissionais liberais ao seu público alvo.
 
 
 ## Público-Alvo
