@@ -11,15 +11,12 @@ Outrossim, o grupo definiu o uso de websites como o SaudePlus, que possibilita a
 
 ## Objetivos
 
-O objetivo deste trabalho é a criação de uma plataforma que possibilite para os usuários a facilidade e agilidade de uma consulta online pela própria plataforma.
+O objetivo geral deste trabalho é a criação de um website que conecta o médico e o paciente de uma forma rápida, eficaz e de baixo custo. 
+Para o paciente, esse website irá utilizar a telemedicina como ferramenta principal, sendo possível o cadastro na plataforma para o atendimento online seguro, de baixo custo utilizando moedas oferecidas diretamente na plataforma e com o profissional desejado. Pode-se citar além disso, maior rapidez no tratamento, maior segurança e otimização do tempo.
+A videoconferência com médicos para discussão das condições clínicas dos pacientes permite obter um melhor resultado no diagnóstico e um parecer para uma boa tomada de decisões.
+Deste modo, para o médico o site vai funcionar como uma plataforma para cadastrar o próprio serviço, possibilitando a ampliação da agenda, a agilidade em consultas e atendimentos e monetização justa para o atendimento. Além de possibilitar a troca direta de opiniões entre dois especialistas, trazendo um diagnóstico assertivo.
+Para isso, os dados são compartilhados de forma segura, podendo ser acessados pelos profissionais cadastrados ou pelo próprio paciente. Além disso, as informações também podem ser compartilhadas com outros especialistas para aumentar a precisão do diagnóstico.
 
-### Objetivos Específicos
-* Fornecer funcionalidades que permitam o usuário encontrar facilmente  um profissional específico;
-* Permitir que o usuário se conecte atráves de chat online e chamada de vídeo com o médico;
-* Permitir que o médico utilize a plataforma para atendimento de pacientes.
-* Promover a saúde e o bem estar com baixo custo.
-* Estimular uma consulta médica para todos.
-* Integrar com médicos de todo país.
 
 ## Justificativa
 
