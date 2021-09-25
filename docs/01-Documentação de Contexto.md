@@ -16,6 +16,19 @@ Para o paciente, esse website irá utilizar a telemedicina como ferramenta princ
 A videoconferência com médicos para discussão das condições clínicas dos pacientes permite obter um melhor resultado no diagnóstico e um parecer para uma boa tomada de decisões.
 Deste modo, para o médico o site vai funcionar como uma plataforma para cadastrar o próprio serviço, possibilitando a ampliação da agenda, a agilidade em consultas e atendimentos e monetização justa para o atendimento. Além de possibilitar a troca direta de opiniões entre dois especialistas, trazendo um diagnóstico assertivo.
 Para isso, os dados são compartilhados de forma segura, podendo ser acessados pelos profissionais cadastrados ou pelo próprio paciente. Além disso, as informações também podem ser compartilhadas com outros especialistas para aumentar a precisão do diagnóstico.
+Pode ser citado como objetivos específicos: 
+•	Redução de custos hospitalares.
+•	Otimização do tempo.
+•	Promover consultas acessíveis a todos, possibilitando o atendimento de baixo custo com a compra de moedas no site.
+•	Segurança ao paciente consultado e ao prestador de serviços.
+•	Ampliação na agenda do médico
+•	Possibilidade de maiores atendimentos diários.
+•	Acesso aos exames e laudos com a qualidade direto do laboratório.
+•	Facilidade de atendimento à domicilio
+•	Redução de custos operacionais possibilitando consultas acessíveis.
+•	Otimizar diagnósticos
+•	Conversa em tempo real com o seu médico através de whatsapp para resolução de dúvidas.
+
 
 
 ## Justificativa
