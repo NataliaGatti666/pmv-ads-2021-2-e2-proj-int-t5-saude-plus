@@ -4,7 +4,7 @@
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+
 ## Personas
 ![image](https://user-images.githubusercontent.com/83511889/134784787-86d8994c-f63e-451f-9828-f89485cd55a1.png)
 ![image](https://user-images.githubusercontent.com/83511889/134784789-a6cc55e4-b32b-485f-a598-e09460422aa9.png)
