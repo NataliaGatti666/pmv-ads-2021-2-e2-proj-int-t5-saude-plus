@@ -5,44 +5,69 @@
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
 
-## Personas
-![image](https://user-images.githubusercontent.com/83511889/134784787-86d8994c-f63e-451f-9828-f89485cd55a1.png)
-![image](https://user-images.githubusercontent.com/83511889/134784789-a6cc55e4-b32b-485f-a598-e09460422aa9.png)
+**Personas**
 
+
+| PERSONA | Descrição |
+| --- | --- |
+| Márcia Amanda | Idade: 29 anos; Ocupação: Médica Ortopedista. Aplicativos  mais acessados: Agenda Google, Facebook, Instagram.|
+| Descrição:|  Márcia atualmente realiza atendimentos presenciais e sua rotina é muito corrida, sempre foi apaixonada por sua profissão e realiza longos plantões em hospitais. Geralmente, quando não está no plantão, Márcia realiza atendimentos em clínicas particulares.|
+| Etiologia:| Márcia tem algumas frustrações por passar se esforçando muito a maior parte do tempo. Ela busca um site que consiga realizar consultas online assim consegue otimizar o seu tempo e reduzir custos com deslocamento;|
+| Insatisfação:| Com a rotina diária corrida, quase não sobra tempo para Márcia cuidar de questões simples do dia a dia; Como não possui uma rotina regular se torna muito difícil tarefas simplórias como o descanso e a rotina de cuidados com sua saúde. |
+| --- | --- |
+| Michael Jonas | Idade: 22 anos; Ocupação: Gerente de Marketing. Aplicativos  mais acessados: Tinder, Facebook, Instagram, Spotify|
+| Descrição:|  Michael é um gerente bem novo e procura sempre estar “antenado” nesse novo mundo de tecnologias.|	
+| Etiologia:| Michael está a procura de um clínico geral para verificar o seu exame de sangue e realizar recomendações, porém ele tem problemas pois nunca consegue agendar, apenas para meses depois onde o exame já se torna inválido|
+| Insatisfação:| Com a demora no atendimento ao SUS, Michael sempre busca meios alternativos. Sempre busca no google como deve se cuidar ou o que os sintomas parecem. Cansado de tentativas falhas, ele busca um site onde consiga se consultar online em um valor super acessível e com laudos assertivos.|
+| --- | --- |
+| Rebecca | Idade: 25 anos; Ocupação: Vendedora. Aplicativos  mais acessados: WhatsApp e Facebook |
+| Descrição:|  Rebecca mora no interior e tem apenas o ensino médio completo,  teve sua filha bem cedo. Atualmente trabalha como vendedora em um comércio local. Ela gosta muito de passeios em família com sua filha e se diverte muito.|	
+| Etiologia:| A filha de Rebecca, possui uma doença bem rara, e os atendimentos presenciais são realizados em um intervalo de 90 dias. Com a necessidade da medicação, ela sempre precisa de receitas atualizadas, mas por morar no interior muita das vezes não tem como custear uma viagem a capital sempre que necessário.|
+| Insatisfação:| Com essa imparcialidade, ela está buscando medidas alternativas, como a consulta online com um médico para atualizações de receitas em um período mais curto. E por morar longe, um contato com o médico através do WhatsApp à ajudaria bastante nas dúvidas quanto a medicação e a dosagem prescrita na receita enviada.|
+| --- | --- |
+| Rachel | Idade: 19 anos; Ocupação: Graduanda em Fisioterapia. Aplicativos  mais acessados: WhatsApp, Instagram| 
+|Descrição:|  Rachel tem a vida bem tranquila, e sempre busca focar em seu melhor condicionamento físico. Gosta de praticar atividade física regularmente e realiza refeições saudáveis.|	
+| Etiologia:|Entende a importância de uma consulta periódica com o médico|
+| Insatisfação:| Rachel está super desanimada com sua alimentação e gostaria de realizar um atendimento nutricional online.|
+| --- | --- |
+| Marcos Moreira | Idade: 29 anos; Ocupação: Médico endocrinologista. Aplicativos  mais acessados: WhatsApp, Instagram, Skype| 
+|Descrição:|  Marcos finalizou a faculdade durante o ano passado e está buscando uma forma de ampliar a agenda e realizar atendimento a vários pacientes. Tem um consultório no Rio de Janeiro, na Barra da Tijuca. 
+| Etiologia:| Busca formas de reduzir os custos do seu consultório. Com a pandemia, Marcos realizou vários atendimentos online e constatou que é muito mais tranquilo pois consegue ter acesso a todo histórico do paciente de consultas e exames. |	
+| Insatisfação:| Com a pandemia a movimentação presencial reduziu 20% os atendimentos presenciais.|
+
+
+ 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Eu como usuário do sistema(paciente) | preciso ter acesso a uma página de cadastro onde consiga colocar meus dados pessoais e minha solicitação           | Conseguir ser atendida dentro da minha necessidade
-|Administrador (Médico)      | Ter acesso as informações do paciente                | Permitir que possa atender o paciente de uma melhor maneira dentro do solicitado |
-|Administrador (Médico) | preciso ter acesso aos laudos e exames do paciente| Para presteza de um atendimento assertivo|
-|Eu como usuário do sistema(paciente)|  preciso ter acesso a compra de moedas com o pagamento no cartão| Para que consiga acessar a vídeo chamada|
-|Eu como usuário do sistema(paciente)| preciso ter acesso a uma vídeo conferencia com meu médico| pois estou com sintomas básicos de infecção de urina pois estou com receio de comparecer presencial |
-|Eu como usuário do sistema(paciente)| preciso ter acesso ao whatsapp do meu médico para sanar dúvidas sobre a medicação| estou com dúvidas sobre a dose exata do remédio|
-|Eu como usuário do sistema(paciente)|preciso conseguir selecionar o sexo do médico que desejo ser atendida |pois me sinto mais confortável sendo atendida por uma nutricionista mulher|
-|Eu como usuário do sistema(paciente)|preciso conseguir ter acesso a receitas médicas online| para consultar sempre que possível|
-|Eu como usuário do sistema(paciente)|preciso ter acesso ao meu prontuário online | caso desejar consultar com outro especialista e mostrar o relatório do médico anterior|
+|Médico|Preciso conseguir cadastrar minhas informações pessoais      | Para que seja ofertado o meu serviço na plataforma.
+|Médico|Preciso conseguir enviar minha documentação    | Para que comprove a formação na área do serviço ofertado  |
+|Médico|Preciso ter acesso ao prontuário e informações anteriores do paciente| Para presteza de um atendimento assertivo|
+|Médico|Preciso conseguir realizar uma vídeo chamada com meu paciente| Para conseguir realizar a consulta online|
+|Paciente|Preciso conseguir solicitar o envio de informações e receita no whatsapp do médico.| Sanar dúvidas sobre a receita enviada pelo mesmo e acompanhamento.|
+|Paciente|Preciso ter acesso a compra de moedas online| Para conseguir liberar a minha consulta com o especialista.|
+|Paciente|Preciso ter um campo onde consiga descrever minha solicitação em um campo de observações |Para o médico já ter um resumo sobre o seu caso.|
+|Paciente|Preciso preencher um formulário com meus dados básicos| Para realizar o cadastro no site|
+|Paciente|Preciso conseguir efetivar o pagamento das moedas no cartão| Para conseguir desbloquear o profissional desejado|
+|Paciente|Preciso conseguir selecionar a especialidade| Para minha demanda ser atendida|
+|Paciente|Preciso conseguir selecionar o sexo do médico| Para buscar o melhor profissional que tenho mais conforto em realizar o atendimento|
+|Médico|Preciso ter acesso as informações pessoais do paciente| Para enviar as receitas, laudos e prontuários no e-mail|
+|Médico|Preciso ter uma notificação| Para me lembrar do meu próximo paciente|
+|Médico|Preciso que a minha parte do pagamento repassado seja feito diretamente no cartão| Para conseguir receber as consultas realizadas na plataforma|
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Os requisitos descrevem as funcionalidades do sistema, citados na tabela a seguir:
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-001| A primeira página deve ter um campo de cadastro de usuário por e-mail ou CPF | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 ### Requisitos não Funcionais
