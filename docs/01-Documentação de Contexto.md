@@ -1,6 +1,6 @@
 # Introdução
-Com o início da era tecnológica, ficou mais evidente a necessidade de ter em mãos de uma forma rápida e ágil tudo que necessitamos em nosso cotidiano. Visto isso, não podemos deixar de mencionar que temos em mãos o simples poder de estar, ver e consumir o que desejamos apenas com um clique. Uma das características mais marcantes é a memória infinita relacionada a dados e informações.
-Diante disto, as aplicações web são exemplos de toda essa informatização, atualmente já faz parte do nosso cotidiano a realização de tarefas básicas através da rede e se torna cada vez mais cômodo para o usuário. 
+Com o início da era tecnológica, ficou mais evidente a necessidade de ter em mãos, de uma forma rápida e ágil, tudo que necessitamos em nosso cotidiano. Entretanto, não podemos deixar de mencionar que temos em mãos o simples poder de estar, ver e consumir o que desejamos apenas com um clique. Uma das características mais marcantes é a memória infinita relacionada a dados e informações.
+As aplicações web são exemplos de toda essa informatização, atualmente já faz parte do nosso cotidiano a realização de tarefas básicas através da rede e se torna cada vez mais cômodo para o usuário. 
 Durante o curso Tecnólogo de Graduação em Análise e Desenvolvimento de Sistemas (ADS) na Pontíficia Universidade Católica de Minas Gerais (PUC MINAS), o presente trabalho se faz necessário para a aprovação final do semestre, visto isso, a escolha do tema se deu pelo fato de uma ideia de inovação tecnológica na área da medicina moderna, sendo o objetivo principal o desenvolvimento de uma plataforma web que possa conectar pacientes e médicos automatizando o processo convencional e trazendo praticidade ao cotidiano moderno. Desta forma, o sistema foi implementado utilizando Front-end e Back-end permitindo uma melhor proposta para a integração do projeto em questão.
 
 ## Problema
@@ -19,7 +19,7 @@ Para isso, os dados são compartilhados de forma segura, podendo ser acessados p
 
 Pode ser citado como objetivos específicos: 
 
-•	Redução de custos hospitalares.
+•	Redução de custos.
 
 •	Otimização do tempo.
 
@@ -37,7 +37,7 @@ Pode ser citado como objetivos específicos:
 
 •	Redução de custos operacionais possibilitando consultas acessíveis.
 
-•	Otimizar diagnósticos
+•	Otimizar diagnósticos.
 
 •	Conversa em tempo real com o seu médico através de whatsapp para resolução de dúvidas.
 
@@ -51,14 +51,12 @@ Contudo, o SaudePlus é uma plataforma profícua que conecta profissionais liber
 
 
 ## Público-Alvo
-Embora o projeto tenha abrangência geral, o foco está nos profissionais com formação superior em medicina residentes especialista em todas as áreas de conhecimento. Faixa etária: a partir de 28 anos.
-Homens e mulheres entre 19 e 50 anos, com ensino médio completo, com renda mensal entre R$2 mil a R$9 mil reais, que sejam adeptos a utilização da tecnologia de um modo geral.
-Todos os profissionais que tenham graduação na área da saúde e pós graduação dentro da área específica de atuação.
+
 
 O site destina-se a todas as pessoas que tem interesse em consultar e prestar serviços de atendimento ao paciente de uma forma eficaz e acessivel.
+Todos os profissionais que tenham graduação na área da saúde e pós graduação dentro da área específica de atuação.O foco está nos profissionais com formação superior em medicina residentes especialista em todas as áreas de conhecimento. Faixa etária: a partir de 28 anos.
+Embora o projeto tenha abrangência geral, homens e mulheres entre 19 e 50 anos, com ensino médio completo, com renda mensal entre R$2 mil a R$9 mil reais, que sejam adeptos a utilização da tecnologia de um modo geral.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
+
+
