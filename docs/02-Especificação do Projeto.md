@@ -67,8 +67,29 @@ Os requisitos descrevem as funcionalidades do sistema, citados na tabela a segui
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A primeira página deve ter um campo de cadastro de usuário por e-mail ou CPF | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Deverá ter um campo de cadastro de usuário por e-mail ou CPF | ALTA | 
+|RF-002| Deverá conter um QR CODE para direcionar os pacientes ao whatsapp do médico.   | MÉDIA |
+|RF-003| Deverá conter um campo onde o médico consiga selecionar a especialidade dele. | ALTA | 
+|RF-004| Deverá ter um campo de busca onde consiga filtrar o médico desejado por especialidade. | ALTA | 
+|RF-005| Deverá ter uma página de acesso ao prontuário do paciente | BAIXA |
+|RF-006| Deverá ter um campo de avaliação do profissional prestador de serviços | MÉDIA |
+|RF-007| Deverá ter pacotes de moedas para o paciente realizar a compra para desbloquear a consulta com pagamento em cartão. | ALTA | 
+|RF-008| Deverá ter um cadastro de conta ou cartão para pagamento do médico prestador de serviço. | ALTA |
+|RF-009| Deverá ter o acesso a uma vídeo conferencia online | ALTA |
+|RF-010| Deverá ter um campo para filtragem por sexo do profissional | BAIXA |
+|RF-011| Deverá ter uma aba de agendamento e organização de atendimentos | MÉDIA | 
+|RF-012| Deverá ter o acesso a ficha cadastral completa do paciente para emissão de laudo/receitas. | MÉDIA | 
+|RF-013| Deverá ter um campo de cadastro do médico por especialidade, cpf e CRM | ALTA | 
+|RF-014| Deverá ter um campo de indicações entre profissionais | BAIXA | 
+|RF-015| Deverá ter um campo de observações gerais para o paciente descrever brevemente o quadro. | MÉDIA | 
+|RF-016| Deverá ter um campo de cadastro de documentação por foto | MÉDIA | 
+|RF-017| Deverá ter um campo de cadastro de exames já realizaos anteriormente pelo paciente. | MÉDIA | 
+
+
+
+
+
+
 
 ### Requisitos não Funcionais
 
