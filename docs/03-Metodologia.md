@@ -105,7 +105,11 @@ necessidades da nossa solução.
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto:
  
 > Github: Requisito estipulado para confecção do trabalho
+
 > Trello: Gerenciamento de Projeto pois permite fácil comunicação online e organização de tarefas a serem realizadas.
+
 > Discord: Para reuniões diárias, pois permite a comunicação direta online.
+
 > Google Drive: Pois permite o uso de ferramentas onlin onde conseguimos revisar juntos o trabalho.
+
 > Git: Gerenciamento de código.
