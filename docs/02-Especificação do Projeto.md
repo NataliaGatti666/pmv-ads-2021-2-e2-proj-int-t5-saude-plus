@@ -43,20 +43,20 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Médico|Preciso conseguir cadastrar minhas informações pessoais      | Para que seja ofertado o meu serviço na plataforma.
-|Médico|Preciso conseguir enviar minha documentação    | Para que comprove a formação na área do serviço ofertado  |
-|Médico|Preciso ter acesso ao prontuário e informações anteriores do paciente| Para presteza de um atendimento assertivo|
-|Médico|Preciso conseguir realizar uma vídeo chamada com meu paciente| Para conseguir realizar a consulta online|
-|Paciente|Preciso conseguir solicitar o envio de informações e receita no whatsapp do médico.| Sanar dúvidas sobre a receita enviada pelo mesmo e acompanhamento.|
-|Paciente|Preciso ter acesso a compra de moedas online| Para conseguir liberar a minha consulta com o especialista.|
-|Paciente|Preciso ter um campo onde consiga descrever minha solicitação em um campo de observações |Para o médico já ter um resumo sobre o seu caso.|
-|Paciente|Preciso preencher um formulário com meus dados básicos| Para realizar o cadastro no site|
-|Paciente|Preciso conseguir efetivar o pagamento das moedas no cartão| Para conseguir desbloquear o profissional desejado|
-|Paciente|Preciso conseguir selecionar a especialidade| Para minha demanda ser atendida|
-|Paciente|Preciso conseguir selecionar o sexo do médico| Para buscar o melhor profissional que tenho mais conforto em realizar o atendimento|
-|Médico|Preciso ter acesso as informações pessoais do paciente| Para enviar as receitas, laudos e prontuários no e-mail|
-|Médico|Preciso ter uma notificação| Para me lembrar do meu próximo paciente|
-|Médico|Preciso que a minha parte do pagamento repassado seja feito diretamente no cartão| Para conseguir receber as consultas realizadas na plataforma|
+|MarcosMédico|Preciso conseguir cadastrar minhas informações pessoais      | Para que seja ofertado o meu serviço na plataforma.
+|Marcos Médico|Preciso conseguir enviar minha documentação    | Para que comprove a formação na área do serviço ofertado  |
+|Márcia Médica|Preciso ter acesso ao prontuário e informações anteriores do paciente| Para presteza de um atendimento assertivo|
+|Márcia Médica|Preciso conseguir realizar uma vídeo chamada com meu paciente| Para conseguir realizar a consulta online|
+|Rebecca Paciente|Preciso conseguir solicitar o envio de informações e receita no whatsapp do médico.| Sanar dúvidas sobre a receita enviada pelo mesmo e acompanhamento.|
+|Rachel Paciente|Preciso ter acesso a compra de moedas online| Para conseguir liberar a minha consulta com o especialista.|
+|Michael Paciente|Preciso ter um campo onde consiga descrever minha solicitação em um campo de observações |Para o médico já ter um resumo sobre o seu caso.|
+|Michael Paciente|Preciso preencher um formulário com meus dados básicos| Para realizar o cadastro no site|
+|Rebecca Paciente|Preciso conseguir efetivar o pagamento das moedas no cartão| Para conseguir desbloquear o profissional desejado|
+|Michael Paciente|Preciso conseguir selecionar a especialidade| Para minha demanda ser atendida|
+|Rachel Paciente|Preciso conseguir selecionar o sexo do médico| Para buscar o melhor profissional que tenho mais conforto em realizar o atendimento|
+|Márcia Médica|Preciso ter acesso as informações pessoais do paciente| Para enviar as receitas, laudos e prontuários no e-mail|
+|MarcosMédico|Preciso ter uma notificação| Para me lembrar do meu próximo paciente|
+|Márcia Médica|Preciso que a minha parte do pagamento repassado seja feito diretamente no cartão| Para conseguir receber as consultas realizadas na plataforma|
 
 
 ## Requisitos
