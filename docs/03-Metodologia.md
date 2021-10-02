@@ -44,6 +44,18 @@ Figura 1 - Trello utilizado pelo grupo.
 
 Pode ser acessado pela Url a seguir: https://trello.com/b/7Te4Dhms/template-kanban
 
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
+
+Em andamento: Todas as tarefas do grupo que estão em andamento pelos usuários.
+
+Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todos os membros podem executar tarefas nestalista.
+
+To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+
+Design: São tarefas que realizam toda a pesquisa e desing do projeto.
+
+Revisão de código: nesta lista são colocadas as tarefas que precisam passar por aprovação e testes.
+
 ### Processo
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
