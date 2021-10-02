@@ -1,9 +1,11 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Em relação a metodologia do projeto, foi subdivido em:
+○ Repositório: Github: https://github.com/NataliaGatti666/pmv-ads-2021-2-e2-proj-int-t5-saude-plus/edit/main/docs/03-Metodologia.md
+○ Gerenciamento de Projeto: Trello 
+○ Arquivos do projeto: Google Docs
+○ Projeto de Interface: Figma
 
 ## Controle de Versão
 
@@ -26,25 +28,21 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
+Srum Master: Natália Gatti
+Product Owner: Richard
+Desenvolvedores: Denison Amaral e Rafael 
+Design: Rafael 
 
-Apresente a divisão de papéis entre os membros do grupo.
+Para subdivisão do projeto a equipe está utilizando o Trello como demonstrado abaixo com a Figura 1.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+![image](https://user-images.githubusercontent.com/83511889/135701413-d575d147-0d60-48a6-a1ec-e2ce20081cde.png)
+Figura 1 - Trello utilizado pelo grupo.
+
+Pode ser acessado pela Url a seguir: https://trello.com/b/7Te4Dhms/template-kanban
 
 ### Processo
 
