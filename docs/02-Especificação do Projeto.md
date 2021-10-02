@@ -99,9 +99,8 @@ Os requisitos descrevem as funcionalidades do sistema, citados na tabela a segui
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| O sistema deve ser compatível com todos os navegadores | ALTA | 
 |RNF-004| A aplicação deve ser publicada em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | ALTA | 
-
-
-
+|RNF-005| Não haver mais de um usuário, com login idêntico.| MÉDIA|
+|RNF-006| Não salva em caso de login semelhante.| MÉDIA|
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
