@@ -1,11 +1,20 @@
 
 # Metodologia
 
-Em relação a metodologia do projeto, foi subdivido em:
-○ Repositório: Github: https://github.com/NataliaGatti666/pmv-ads-2021-2-e2-proj-int-t5-saude-plus/edit/main/docs/03-Metodologia.md
-○ Gerenciamento de Projeto: Trello 
-○ Arquivos do projeto: Google Docs
-○ Projeto de Interface: Figma
+O material empírico apresentado no presente relatório é um protótipo de um portal WEB, constituido por uma interface intuitiva para o usuário; com uma abordagem direta, com o objetivo de fornecer serviços solicitados pelos entrevistados, atendendo as necessidades e suas particularidades.
+
+Para as personas, criamos um grupo heterogêneo com o objetivo de usar um método de comparação levando em consideração as necessidades e limitações dos usuários.
+
+
+### Relação de Ambientes de Trabalho
+
+|Ambiente|	Plataforma	|Link de Acesso|
+|Repositório de código fonte|	GitHub|	https://github.com/NataliaGatti666/pmv-ads-2021-2-e2-proj-int-t5-saude-plus/edit/main/docs/03-Metodologia.md
+|Documentos do projeto|	Google Drive|	
+|Projeto de Interface e  Wireframes|	Figma| https://www.figma.com/file/iB8kp1jwRoVshgRvkr4t7l/Saude.Plus
+|Gerenciamento do Projeto|	Github|	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t2-infosaude/projects/1
+
+
 
 ## Controle de Versão
 
