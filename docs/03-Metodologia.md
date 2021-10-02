@@ -1,5 +1,5 @@
 
-# Metodologia
+### Metodologia
 
 O material empírico apresentado no presente relatório é um protótipo de um portal WEB, constituido por uma interface intuitiva para o usuário; com uma abordagem direta, com o objetivo de fornecer serviços solicitados pelos entrevistados, atendendo as necessidades e suas particularidades.
 
@@ -17,7 +17,7 @@ Para as personas, criamos um grupo heterogêneo com o objetivo de usar um métod
 |  Gerenciamento do Projeto|	Github|	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t2-infosaude/projects/1 |
 
 
-## Controle de Versão
+### Controle de Versão
 
 A figura abaixo representa como funciona o trabalho simultâneo no mesmo projeto.
 
@@ -27,8 +27,8 @@ A figura abaixo representa como funciona o trabalho simultâneo no mesmo projeto
     master: contém o nosso código de produção, todo o código que estamos desenvolvendo.
     develop: contém o código do nosso próximo deploy, conforme as features vão sendo finalizadas elas vão sendo juntadas nessa branch para posteriormente passarem por mais uma etapa antes de ser juntada com a master
     feature: são branches para o desenvolvimento de uma funcionalidade específica,essas branches são criadas sempre à partir da branch develop
-    hotfix/*: são branches responsáveis pela realização de alguma correção crítica encontrada em produção e por isso são criadas à partir da master. Importante ressaltar que essa branch deve ser juntada tanto com a master quanto com a develop
-    release/*: tem uma confiança maior que a branch develop e que se encontra em nível de preparação para ser juntada com a master e com a develop (caso alguma coisa tenha sido modificada na branch em questão)
+    hotfix: são branches responsáveis pela realização de alguma correção crítica encontrada em produção e por isso são criadas à partir da master. Importante ressaltar que essa branch deve ser juntada tanto com a master quanto com a develop
+    release: tem uma confiança maior que a branch develop e que se encontra em nível de preparação para ser juntada com a master e com a develop (caso alguma coisa tenha sido modificada na branch em questão)
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
@@ -50,7 +50,7 @@ etiquetas:
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
 
-## Gerenciamento de Projeto
+##Gerenciamento de Projeto
 
 ### Divisão de Papéis
 Srum Master: Natália Gatti
