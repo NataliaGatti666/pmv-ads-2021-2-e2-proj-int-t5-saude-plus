@@ -21,6 +21,11 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 ![image](https://user-images.githubusercontent.com/83511889/135731110-01eba9d4-8fd0-477f-9656-2f6329cef2cf.png)
 URL:https://lucid.app/lucidchart/6a4a4c39-0c08-4f06-83d4-9e7e53c183fd/edit?beaconFlowId=1B619F6779AE0824&invitationId=inv_d47c0717-2710-4531-88c2-891cdf9fdb54&page=0_0#
 
+##Esquema Relacional
+
+O esquema relacional pode ser ilustrado na imagem abaixo: 
+
+![image](https://user-images.githubusercontent.com/83511889/135731603-8ed7ca32-802a-491c-87e5-05273b821e07.png)
 
 ## Tecnologias Utilizadas
 
