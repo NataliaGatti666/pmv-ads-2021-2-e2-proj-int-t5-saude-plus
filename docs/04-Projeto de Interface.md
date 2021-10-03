@@ -21,16 +21,11 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 > - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
 ## Wireframes
+URL:https://www.figma.com/file/iB8kp1jwRoVshgRvkr4t7l/Saude.Plus?node-id=0%3A1
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![image](https://user-images.githubusercontent.com/83511889/135773927-4b7f26e2-cf11-4079-b932-03b0eb8a8a91.png)
+![image](https://user-images.githubusercontent.com/83511889/135773941-59ada9b8-06ed-44fe-9795-a5ffd85805e8.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+
+
+
