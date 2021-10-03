@@ -25,9 +25,7 @@ URL:https://www.figma.com/file/iB8kp1jwRoVshgRvkr4t7l/Saude.Plus?node-id=0%3A1
 
 *Homepage*
 
-![image](https://user-images.githubusercontent.com/83511889/135773927-4b7f26e2-cf11-4079-b932-03b0eb8a8a91.png)
-
-![image](https://user-images.githubusercontent.com/83511889/135773941-59ada9b8-06ed-44fe-9795-a5ffd85805e8.png)
+![image](https://user-images.githubusercontent.com/83511889/135773986-c949d07c-92c8-4524-91b4-558fc15c6303.png)
 
 
 
