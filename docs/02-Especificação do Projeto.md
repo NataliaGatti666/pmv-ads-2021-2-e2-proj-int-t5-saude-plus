@@ -84,7 +84,7 @@ Os requisitos descrevem as funcionalidades do sistema, citados na tabela a segui
 |RF-015| Deverá ter um campo de observações gerais para o paciente descrever brevemente o quadro. | MÉDIA | 
 |RF-016| Deverá ter um campo de cadastro de documentação por foto | MÉDIA | 
 |RF-017| Deverá ter um campo de cadastro de exames já realizaos anteriormente pelo paciente. | MÉDIA | 
-
+|RF-018| Deverá ter um campo de alteração de senha
 
 
 
