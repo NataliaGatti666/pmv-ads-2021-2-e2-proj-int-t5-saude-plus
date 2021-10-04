@@ -101,6 +101,8 @@ Os requisitos descrevem as funcionalidades do sistema, citados na tabela a segui
 |RNF-004| A aplicação deve ser publicada em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | ALTA | 
 |RNF-005| Não haver mais de um usuário, com login idêntico.| MÉDIA|
 |RNF-006| Não salva em caso de login semelhante.| MÉDIA|
+|RNF-007| O sistema deve possuir níveis de acesso para diferenciar usuários comuns de usuários administrativos, que acessarão áreas distintas do sistema| ALTA|
+|RNF-008| O sistema de compra deve ser negável sem a necessidade de uma prévia autenticação do usuário| MÉDIA|
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
