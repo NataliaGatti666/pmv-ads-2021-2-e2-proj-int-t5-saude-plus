@@ -1,19 +1,37 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+TIPO DO TESTE: FUNCIONAL
+SUBTIPO DE TESTE: REQUISITO
+OBJETIVO DO TESTE: TESTAR A FUNCIONALIDADE DO CAMPO DE CADASTRO DO USUÁRIO
+REQUISITOS QUE MOTIVARAM ESTE TESTE: RF001 Deverá ter um campo de cadastro de usuário por e-mail ou CPF
+PASSOS: 1- ACESSAR O SITE 2- CLICAR EM CADASTRO DE USUÁRIO
+RESPOSTA ESPERADA: ABRIR O CAMPO DE CADASTRO COM O FORMULÁRIO PARA SER PRENCHIDO.
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+TIPO DO TESTE: FUNCIONAL
+SUBTIPO DE TESTE: REQUISITO
+OBJETIVO DO TESTE: VERIFICAR A VALIDAÇÃO DO QR CODE
+REQUISITOS QUE MOTIVARAM ESTE TESTE: RF-002 Deverá conter um QR CODE para direcionar os pacientes ao whatsapp do médico.
+PASSOS: CLICAR NO PAINEL DE ACESSO AO MÉDICO
+2- ACESSAR O QR CODE
+3- ABRIR O WHATSAPP E ENVIAR UMA MENSAGEM DE CONFIRMAÇÃO DE CONSULTA
+RESPOSTA ESPERADA: ENVIO DA MENSAGEM NO WHATSAPP DO MÉDICO
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+TIPO DO TESTE: FUNCIONAL
+SUBTIPO DE TESTE: REQUISITO
+OBJETIVO DO TESTE: VERIFICAR SE O MÉDICO CONSEGUE ESCREVER A SUA ESPECIALIDADE NO CAMPO DISPOSTO.
+REQUISITOS QUE MOTIVARAM ESTE TESTE: RF-003 Deverá conter um campo onde o médico consiga selecionar a especialidade dele.
+PASSOS: CLICAR NO CADASTRO DE PROFISSIONAL
+CLICAR NO ESCOLHER SUA ESPECIALIDADE
+RESPOSTA ESPERADA: ABRIR O CAMPO PARA SELECIONAR A ESPECIALIDADE DO MÉDICO
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
+
+
+TIPO DO TESTE: FUNCIONAL
+SUBTIPO DE TESTE: REQUISITO
+OBJETIVO DO TESTE: VALIDAÇÃO DE FILTRO E CAMPO DE BUSCA
+REQUISITOS QUE MOTIVARAM ESTE TESTE: RF-004 Deverá ter um campo de busca onde consiga filtrar o médico desejado por especialidade.
+PASSOS: CLICAR EM PESQUISAR PROFISSIONAL
+2- ABRIR CAMPO DE BUSCA
+3- FILTRAR O PROFISSIONAL
+RESULTADO ESPERADO: MOSTRAR APENAS PROFISSIONAIS ESPECÍFICOS DO FILTRO.
