@@ -1,11 +1,57 @@
 # Plano de Testes de Usabilidade
+**teste08**
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+*TIPO DO TESTE:* NAO FUNCIONAL
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+*SUBTIPO DE TESTE:* USABILIDADE
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+*OBJETIVO DO TESTE:* : TESTAR SE A COMPRA NÃO FICA DISTORCIDA QUANDO ACESSADA EM UM AMBIENTE MOBILE.
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+*REQUISITOS QUE MOTIVARAM ESTE TESTE:* RNF-001 O sistema deve ser responsivo para rodar em um dispositivo móvel
+|-----------------------------------|
+
+
+**teste08**
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+*TIPO DO TESTE:* NAO FUNCIONAL
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+*SUBTIPO DE TESTE:* USABILIDADE
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+*OBJETIVO DO TESTE:* : TESTAR SE O SISTEMA POSSUI A MESMA EFICIÊNCIA EM DIFERENTES BROWSERS
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+*REQUISITOS QUE MOTIVARAM ESTE TESTE:* RNF-003 O sistema deve ser compatível com todos os navegadores
+|-----------------------------------|
+
+
+**teste09**
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+*TIPO DO TESTE:* NAO FUNCIONAL
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+*SUBTIPO DE TESTE:* USABILIDADE
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+*OBJETIVO DO TESTE:* : TESTAR SE QUANDO O USUÁRIO NORMAL FOR ACESSAR UMA ÁREA RESTRITA HAVERÁ ALGUM BLOQUEIO
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+*REQUISITOS QUE MOTIVARAM ESTE TESTE:* RNF-007 O sistema deve possuir níveis de acesso para diferenciar usuários comuns de usuários administrativos, que acessarão áreas distintas do sistema
+|-----------------------------------|
+
+
+
+
