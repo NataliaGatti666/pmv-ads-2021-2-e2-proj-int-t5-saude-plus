@@ -63,4 +63,8 @@ URL:https://www.figma.com/file/iB8kp1jwRoVshgRvkr4t7l/Saude.Plus?node-id=0%3A1
 *Falha no Pagamento* 
 ![image](https://user-images.githubusercontent.com/65242472/135941323-cd25ef8e-c7b9-4a74-b737-4fe1ea1b30cc.png)
 
+*Tela de atendimento por vídeo chamada*
+
+![image](https://user-images.githubusercontent.com/83511889/135946690-ec9bdd99-5986-4e00-b937-782fe84d6a2d.png)
+
 
