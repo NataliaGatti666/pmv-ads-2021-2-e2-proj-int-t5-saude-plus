@@ -34,12 +34,12 @@ URL:https://www.figma.com/file/iB8kp1jwRoVshgRvkr4t7l/Saude.Plus?node-id=0%3A1
 
 ![image](https://user-images.githubusercontent.com/83511889/135774030-a93d1ae6-3bf7-4404-bcab-619886f40c83.png)
 
-* QRcode para entrar em contato com o medico*
+*QRcode para entrar em contato com o medico*
 
 ![image](https://user-images.githubusercontent.com/65242472/135941417-8fb30d33-f600-4715-b62e-df797ad8225a.png)
 
 
-*tela Inicial Medico * 
+*Tela Inicial Medico* 
 
 ![image](https://user-images.githubusercontent.com/65242472/135941497-bc458ee4-f1e1-4b54-b517-1409fe0c2473.png)
 
