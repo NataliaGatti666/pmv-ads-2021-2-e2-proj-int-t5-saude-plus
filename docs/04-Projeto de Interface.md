@@ -40,6 +40,15 @@ URL:https://www.figma.com/file/iB8kp1jwRoVshgRvkr4t7l/Saude.Plus?node-id=0%3A1
 
 ![image](https://user-images.githubusercontent.com/83511889/135774030-a93d1ae6-3bf7-4404-bcab-619886f40c83.png)
 
+* QRcode para entrar em contato com o medico*
+
+![image](https://user-images.githubusercontent.com/65242472/135941417-8fb30d33-f600-4715-b62e-df797ad8225a.png)
+
+
+*tela Inicial Medico * 
+![image](https://user-images.githubusercontent.com/65242472/135941497-bc458ee4-f1e1-4b54-b517-1409fe0c2473.png)
+
+
 *Horários e Agendamentos- Desbloqueio do especialista*
 
 ![image](https://user-images.githubusercontent.com/83511889/135774047-f53ab642-1283-40ec-a92b-64c5c593212b.png)
@@ -54,5 +63,10 @@ URL:https://www.figma.com/file/iB8kp1jwRoVshgRvkr4t7l/Saude.Plus?node-id=0%3A1
 ![image](https://user-images.githubusercontent.com/83511889/135774075-e1ecde7a-d5d4-44e1-b87d-af0ce28b71fe.png)
 
 
+*Pagamento Aceito* 
+![image](https://user-images.githubusercontent.com/65242472/135941292-72c65681-2bbd-4714-a4be-5cc4b54e1ac4.png)
+
+*Falha no Pagamento* 
+![image](https://user-images.githubusercontent.com/65242472/135941323-cd25ef8e-c7b9-4a74-b737-4fe1ea1b30cc.png)
 
 
