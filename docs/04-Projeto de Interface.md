@@ -40,6 +40,7 @@ URL:https://www.figma.com/file/iB8kp1jwRoVshgRvkr4t7l/Saude.Plus?node-id=0%3A1
 
 
 *tela Inicial Medico * 
+
 ![image](https://user-images.githubusercontent.com/65242472/135941497-bc458ee4-f1e1-4b54-b517-1409fe0c2473.png)
 
 
@@ -58,9 +59,11 @@ URL:https://www.figma.com/file/iB8kp1jwRoVshgRvkr4t7l/Saude.Plus?node-id=0%3A1
 
 
 *Pagamento Aceito* 
+
 ![image](https://user-images.githubusercontent.com/65242472/135941292-72c65681-2bbd-4714-a4be-5cc4b54e1ac4.png)
 
 *Falha no Pagamento* 
+
 ![image](https://user-images.githubusercontent.com/65242472/135941323-cd25ef8e-c7b9-4a74-b737-4fe1ea1b30cc.png)
 
 *Tela de atendimento por vídeo chamada*
